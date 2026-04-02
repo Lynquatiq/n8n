@@ -14,12 +14,12 @@ catalog:
   '@types/lodash': ^4.17.17
   '@types/uuid': ^10.0.0
   '@types/xml2js': ^0.4.14
-  axios: 1.8.3
+  axios: 1.13.5
   basic-auth: 2.0.1
   callsites: 3.1.0
   chokidar: 4.0.1
   fast-glob: 3.2.12
-  flatted: 3.2.7
+  flatted: 3.4.2
   form-data: 4.0.0
   http-proxy-agent: 7.0.2
   https-proxy-agent: 7.0.6
@@ -42,7 +42,7 @@ catalog:
   '@langchain/core': 0.3.48
   '@langchain/openai': 0.5.0
   '@langchain/anthropic': 0.3.21
-  '@langchain/community': 0.3.24
+  '@langchain/community': 1.1.18
   '@n8n_io/ai-assistant-sdk': 1.14.0
 
 catalogs:
